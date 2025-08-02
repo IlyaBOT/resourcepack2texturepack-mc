@@ -1,14 +1,12 @@
 # Minecraft Resourse Pack to beta 1.7.3 Texture Pack converter
 
 <a href="image-1.png" target="_blank">
-    <img src="image-1.png" alt="" width="256" style="float: left; margin: 0px 10px 0px 10px;"/>
+    <img src="image-1.png" alt="" width="384" style="float: left; margin: 0px 10px 0px 10px;"/>
 </a>
-
-<br>
 
 A simple Python script that converts a Minecraft **resource pack** into a **texture pack compatible with beta 1.7.3**. It removes unsupported file formats and modern metadata so the resulting `.zip` can be loaded directly in your Beta 1.7.3 instance.
 
-<br><br>
+<br>
 
 This script works quite well, but there are some flaws that will need to be corrected manually. Anyway, I think it's better than doing everything manually.
 
