@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# Made by IlyaBOT. 02.08.2025
 # Usage:
 #   python3 main.py input-resourcepack.zip example-beta-texturepack.zip [--output=out.zip]
 
