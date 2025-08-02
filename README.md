@@ -28,7 +28,7 @@ This script works quite well, but there are some flaws that will need to be corr
    python main.py steelfeathers-enchanted-pack_v1.6-1.2.5.zip legacypack-2025-32x.zip
    ```
 5. A file like `modern-resourcepack_converted_b1.7.3.zip` will be created.
-6. Drop convertex texturepack file into `texturepacks/` folder in your Minecraft Beta 1.7.3 instance, enable it in-game, and you’re good to go!
+6. Drop converted texturepack file into `texturepacks/` folder in your Minecraft Beta 1.7.3 instance, enable it in-game, and you’re good to go!
 
 ---
 
